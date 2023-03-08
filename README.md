@@ -25,5 +25,5 @@
 ### Studying in this moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg">
+  <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
