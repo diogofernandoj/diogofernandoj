@@ -15,7 +15,6 @@
 
 ### Skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-HTML" height="20" width="60" src="https://img.shields.io/badge/-HTML-111111?style=flat&logo=HTML5">
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,5 +28,5 @@
 ### Currently studying:
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
