@@ -16,12 +16,12 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=git)
-![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=git)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 
 <h3>Currently studying:</h3>
 
