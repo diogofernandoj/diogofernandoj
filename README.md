@@ -12,7 +12,6 @@
 </div>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,9 +19,11 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=flat&logo=postgresql)
 
 <h3>Currently studying:</h3>
 
-![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=flat&logo=postgresql)
 ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=next.js)
+![Docker](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=docker)
+![Prisma](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=prisma)
