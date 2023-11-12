@@ -25,5 +25,5 @@
 <h3>Currently studying:</h3>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=next.js)
-![Docker](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=docker)
-![Prisma](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=prisma)
+![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker)
+![Prisma](https://img.shields.io/badge/-PrismaORM-111111?style=flat&logo=prisma)
