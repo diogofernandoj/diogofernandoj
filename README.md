@@ -21,9 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=flat&logo=postgresql)
-
-<h3>Currently studying:</h3>
-
 ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=next.js)
 ![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-PrismaORM-111111?style=flat&logo=prisma)
