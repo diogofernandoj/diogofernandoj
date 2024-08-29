@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<a href="https://diogofernandoj.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=" target="_blank"></a>
+<a href="https://diogofernandoj.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=" target="_blank"></a>
 <a href = "mailto:diogofernandoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diogofernandoj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
